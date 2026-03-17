@@ -1,0 +1,274 @@
+﻿<Project>
+  <ItemGroup>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\uploads\categories\category102_e6c9fbc6-3df3-47cb-828a-e3aecb118d9f.png'))">
+      <SourceType>Package</SourceType>
+      <SourceId>Car Rental API</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/Car Rental API</BasePath>
+      <RelativePath>uploads/categories/category102_e6c9fbc6-3df3-47cb-828a-e3aecb118d9f.png</RelativePath>
+      <AssetKind>All</AssetKind>
+      <AssetMode>All</AssetMode>
+      <AssetRole>Primary</AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <Fingerprint>feqixseq7j</Fingerprint>
+      <Integrity>J2fdBunDBixKsv7WW3Kgsm8Z+HpKILCfZLSn6ds4Ozw=</Integrity>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\uploads\categories\category102_e6c9fbc6-3df3-47cb-828a-e3aecb118d9f.png'))</OriginalItemSpec>
+    </StaticWebAsset>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\uploads\categories\category103_b02d163c-994f-4260-9847-5dd68f137eae.png'))">
+      <SourceType>Package</SourceType>
+      <SourceId>Car Rental API</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/Car Rental API</BasePath>
+      <RelativePath>uploads/categories/category103_b02d163c-994f-4260-9847-5dd68f137eae.png</RelativePath>
+      <AssetKind>All</AssetKind>
+      <AssetMode>All</AssetMode>
+      <AssetRole>Primary</AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <Fingerprint>owv5zxrtq1</Fingerprint>
+      <Integrity>OLjJyyFWXEOikX6idZ7qbv0BFP+K+QQOTgcvPi2xp6g=</Integrity>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\uploads\categories\category103_b02d163c-994f-4260-9847-5dd68f137eae.png'))</OriginalItemSpec>
+    </StaticWebAsset>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\uploads\categories\category104_39319d00-24e8-4509-ab65-3bf321719789.png'))">
+      <SourceType>Package</SourceType>
+      <SourceId>Car Rental API</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/Car Rental API</BasePath>
+      <RelativePath>uploads/categories/category104_39319d00-24e8-4509-ab65-3bf321719789.png</RelativePath>
+      <AssetKind>All</AssetKind>
+      <AssetMode>All</AssetMode>
+      <AssetRole>Primary</AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <Fingerprint>owv5zxrtq1</Fingerprint>
+      <Integrity>OLjJyyFWXEOikX6idZ7qbv0BFP+K+QQOTgcvPi2xp6g=</Integrity>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\uploads\categories\category104_39319d00-24e8-4509-ab65-3bf321719789.png'))</OriginalItemSpec>
+    </StaticWebAsset>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\uploads\categories\category105_d7014adf-8e91-4dd1-b266-06f3af61c8f5.png'))">
+      <SourceType>Package</SourceType>
+      <SourceId>Car Rental API</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/Car Rental API</BasePath>
+      <RelativePath>uploads/categories/category105_d7014adf-8e91-4dd1-b266-06f3af61c8f5.png</RelativePath>
+      <AssetKind>All</AssetKind>
+      <AssetMode>All</AssetMode>
+      <AssetRole>Primary</AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <Fingerprint>owv5zxrtq1</Fingerprint>
+      <Integrity>OLjJyyFWXEOikX6idZ7qbv0BFP+K+QQOTgcvPi2xp6g=</Integrity>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\uploads\categories\category105_d7014adf-8e91-4dd1-b266-06f3af61c8f5.png'))</OriginalItemSpec>
+    </StaticWebAsset>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\uploads\categories\category127_a0c7c024-e3ce-47bb-b02a-40e65644fd34.png'))">
+      <SourceType>Package</SourceType>
+      <SourceId>Car Rental API</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/Car Rental API</BasePath>
+      <RelativePath>uploads/categories/category127_a0c7c024-e3ce-47bb-b02a-40e65644fd34.png</RelativePath>
+      <AssetKind>All</AssetKind>
+      <AssetMode>All</AssetMode>
+      <AssetRole>Primary</AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <Fingerprint>owv5zxrtq1</Fingerprint>
+      <Integrity>OLjJyyFWXEOikX6idZ7qbv0BFP+K+QQOTgcvPi2xp6g=</Integrity>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\uploads\categories\category127_a0c7c024-e3ce-47bb-b02a-40e65644fd34.png'))</OriginalItemSpec>
+    </StaticWebAsset>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\uploads\categories\category141_4aa9c27f-e201-4e9c-9cb1-6c1b46960e59.png'))">
+      <SourceType>Package</SourceType>
+      <SourceId>Car Rental API</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/Car Rental API</BasePath>
+      <RelativePath>uploads/categories/category141_4aa9c27f-e201-4e9c-9cb1-6c1b46960e59.png</RelativePath>
+      <AssetKind>All</AssetKind>
+      <AssetMode>All</AssetMode>
+      <AssetRole>Primary</AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <Fingerprint>feqixseq7j</Fingerprint>
+      <Integrity>J2fdBunDBixKsv7WW3Kgsm8Z+HpKILCfZLSn6ds4Ozw=</Integrity>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\uploads\categories\category141_4aa9c27f-e201-4e9c-9cb1-6c1b46960e59.png'))</OriginalItemSpec>
+    </StaticWebAsset>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\uploads\categories\category141_571be223-e23f-46f0-befc-4761513a226a.png'))">
+      <SourceType>Package</SourceType>
+      <SourceId>Car Rental API</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/Car Rental API</BasePath>
+      <RelativePath>uploads/categories/category141_571be223-e23f-46f0-befc-4761513a226a.png</RelativePath>
+      <AssetKind>All</AssetKind>
+      <AssetMode>All</AssetMode>
+      <AssetRole>Primary</AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <Fingerprint>owv5zxrtq1</Fingerprint>
+      <Integrity>OLjJyyFWXEOikX6idZ7qbv0BFP+K+QQOTgcvPi2xp6g=</Integrity>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\uploads\categories\category141_571be223-e23f-46f0-befc-4761513a226a.png'))</OriginalItemSpec>
+    </StaticWebAsset>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\uploads\users\29e7ac1a-f810-416a-8d30-073e000acee9.png'))">
+      <SourceType>Package</SourceType>
+      <SourceId>Car Rental API</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/Car Rental API</BasePath>
+      <RelativePath>uploads/users/29e7ac1a-f810-416a-8d30-073e000acee9.png</RelativePath>
+      <AssetKind>All</AssetKind>
+      <AssetMode>All</AssetMode>
+      <AssetRole>Primary</AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <Fingerprint>owv5zxrtq1</Fingerprint>
+      <Integrity>OLjJyyFWXEOikX6idZ7qbv0BFP+K+QQOTgcvPi2xp6g=</Integrity>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\uploads\users\29e7ac1a-f810-416a-8d30-073e000acee9.png'))</OriginalItemSpec>
+    </StaticWebAsset>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\uploads\users\user11_c6fe3100-447e-4505-aff8-9c93a5371362.png'))">
+      <SourceType>Package</SourceType>
+      <SourceId>Car Rental API</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/Car Rental API</BasePath>
+      <RelativePath>uploads/users/user11_c6fe3100-447e-4505-aff8-9c93a5371362.png</RelativePath>
+      <AssetKind>All</AssetKind>
+      <AssetMode>All</AssetMode>
+      <AssetRole>Primary</AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <Fingerprint>feqixseq7j</Fingerprint>
+      <Integrity>J2fdBunDBixKsv7WW3Kgsm8Z+HpKILCfZLSn6ds4Ozw=</Integrity>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\uploads\users\user11_c6fe3100-447e-4505-aff8-9c93a5371362.png'))</OriginalItemSpec>
+    </StaticWebAsset>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\uploads\users\user64_9b0692c3-6208-4063-a1be-b69f14301e45.png'))">
+      <SourceType>Package</SourceType>
+      <SourceId>Car Rental API</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/Car Rental API</BasePath>
+      <RelativePath>uploads/users/user64_9b0692c3-6208-4063-a1be-b69f14301e45.png</RelativePath>
+      <AssetKind>All</AssetKind>
+      <AssetMode>All</AssetMode>
+      <AssetRole>Primary</AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <Fingerprint>oavj7ne7cg</Fingerprint>
+      <Integrity>0BcHxf62YQvDf2IBo0S43NqMxNQDlX+xXYp/WyEd9h0=</Integrity>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\uploads\users\user64_9b0692c3-6208-4063-a1be-b69f14301e45.png'))</OriginalItemSpec>
+    </StaticWebAsset>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\uploads\users\user69_4ef973bb-838e-474f-a82d-8234cb935bbf.png'))">
+      <SourceType>Package</SourceType>
+      <SourceId>Car Rental API</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/Car Rental API</BasePath>
+      <RelativePath>uploads/users/user69_4ef973bb-838e-474f-a82d-8234cb935bbf.png</RelativePath>
+      <AssetKind>All</AssetKind>
+      <AssetMode>All</AssetMode>
+      <AssetRole>Primary</AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <Fingerprint>owv5zxrtq1</Fingerprint>
+      <Integrity>OLjJyyFWXEOikX6idZ7qbv0BFP+K+QQOTgcvPi2xp6g=</Integrity>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\uploads\users\user69_4ef973bb-838e-474f-a82d-8234cb935bbf.png'))</OriginalItemSpec>
+    </StaticWebAsset>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\uploads\users\user70_30bacedf-49a1-44d2-9199-63dd2d99ccd7.png'))">
+      <SourceType>Package</SourceType>
+      <SourceId>Car Rental API</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/Car Rental API</BasePath>
+      <RelativePath>uploads/users/user70_30bacedf-49a1-44d2-9199-63dd2d99ccd7.png</RelativePath>
+      <AssetKind>All</AssetKind>
+      <AssetMode>All</AssetMode>
+      <AssetRole>Primary</AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <Fingerprint>owv5zxrtq1</Fingerprint>
+      <Integrity>OLjJyyFWXEOikX6idZ7qbv0BFP+K+QQOTgcvPi2xp6g=</Integrity>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\uploads\users\user70_30bacedf-49a1-44d2-9199-63dd2d99ccd7.png'))</OriginalItemSpec>
+    </StaticWebAsset>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\uploads\vehicles\vehicle11_cef9b438-b686-47aa-9f3d-bc23069d5f97.png'))">
+      <SourceType>Package</SourceType>
+      <SourceId>Car Rental API</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/Car Rental API</BasePath>
+      <RelativePath>uploads/vehicles/vehicle11_cef9b438-b686-47aa-9f3d-bc23069d5f97.png</RelativePath>
+      <AssetKind>All</AssetKind>
+      <AssetMode>All</AssetMode>
+      <AssetRole>Primary</AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <Fingerprint>80f1mvjv43</Fingerprint>
+      <Integrity>OKRWDzNTifgUYOR3VdpxDuwUtUyPiizw8QgvSP3ryVs=</Integrity>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\uploads\vehicles\vehicle11_cef9b438-b686-47aa-9f3d-bc23069d5f97.png'))</OriginalItemSpec>
+    </StaticWebAsset>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\uploads\vehicles\vehicle123_40e5cd4c-4f80-4094-a324-cc383b0274be.png'))">
+      <SourceType>Package</SourceType>
+      <SourceId>Car Rental API</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/Car Rental API</BasePath>
+      <RelativePath>uploads/vehicles/vehicle123_40e5cd4c-4f80-4094-a324-cc383b0274be.png</RelativePath>
+      <AssetKind>All</AssetKind>
+      <AssetMode>All</AssetMode>
+      <AssetRole>Primary</AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <Fingerprint>owv5zxrtq1</Fingerprint>
+      <Integrity>OLjJyyFWXEOikX6idZ7qbv0BFP+K+QQOTgcvPi2xp6g=</Integrity>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\uploads\vehicles\vehicle123_40e5cd4c-4f80-4094-a324-cc383b0274be.png'))</OriginalItemSpec>
+    </StaticWebAsset>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\uploads\vehicles\vehicle123_4a20a9ba-7237-46f6-a1d5-92be8866a230.png'))">
+      <SourceType>Package</SourceType>
+      <SourceId>Car Rental API</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/Car Rental API</BasePath>
+      <RelativePath>uploads/vehicles/vehicle123_4a20a9ba-7237-46f6-a1d5-92be8866a230.png</RelativePath>
+      <AssetKind>All</AssetKind>
+      <AssetMode>All</AssetMode>
+      <AssetRole>Primary</AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <Fingerprint>owv5zxrtq1</Fingerprint>
+      <Integrity>OLjJyyFWXEOikX6idZ7qbv0BFP+K+QQOTgcvPi2xp6g=</Integrity>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\uploads\vehicles\vehicle123_4a20a9ba-7237-46f6-a1d5-92be8866a230.png'))</OriginalItemSpec>
+    </StaticWebAsset>
+  </ItemGroup>
+</Project>

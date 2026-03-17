@@ -1,0 +1,85 @@
+{
+  "Files": [
+    {
+      "Id": "D:\\DotNet\\Projects\\Car Rental\\Car Rental API\\wwwroot\\uploads\\categories\\category102_e6c9fbc6-3df3-47cb-828a-e3aecb118d9f.png",
+      "PackagePath": "staticwebassets\\uploads\\categories\\category102_e6c9fbc6-3df3-47cb-828a-e3aecb118d9f.png"
+    },
+    {
+      "Id": "D:\\DotNet\\Projects\\Car Rental\\Car Rental API\\wwwroot\\uploads\\categories\\category103_b02d163c-994f-4260-9847-5dd68f137eae.png",
+      "PackagePath": "staticwebassets\\uploads\\categories\\category103_b02d163c-994f-4260-9847-5dd68f137eae.png"
+    },
+    {
+      "Id": "D:\\DotNet\\Projects\\Car Rental\\Car Rental API\\wwwroot\\uploads\\categories\\category104_39319d00-24e8-4509-ab65-3bf321719789.png",
+      "PackagePath": "staticwebassets\\uploads\\categories\\category104_39319d00-24e8-4509-ab65-3bf321719789.png"
+    },
+    {
+      "Id": "D:\\DotNet\\Projects\\Car Rental\\Car Rental API\\wwwroot\\uploads\\categories\\category105_d7014adf-8e91-4dd1-b266-06f3af61c8f5.png",
+      "PackagePath": "staticwebassets\\uploads\\categories\\category105_d7014adf-8e91-4dd1-b266-06f3af61c8f5.png"
+    },
+    {
+      "Id": "D:\\DotNet\\Projects\\Car Rental\\Car Rental API\\wwwroot\\uploads\\categories\\category127_a0c7c024-e3ce-47bb-b02a-40e65644fd34.png",
+      "PackagePath": "staticwebassets\\uploads\\categories\\category127_a0c7c024-e3ce-47bb-b02a-40e65644fd34.png"
+    },
+    {
+      "Id": "D:\\DotNet\\Projects\\Car Rental\\Car Rental API\\wwwroot\\uploads\\categories\\category141_4aa9c27f-e201-4e9c-9cb1-6c1b46960e59.png",
+      "PackagePath": "staticwebassets\\uploads\\categories\\category141_4aa9c27f-e201-4e9c-9cb1-6c1b46960e59.png"
+    },
+    {
+      "Id": "D:\\DotNet\\Projects\\Car Rental\\Car Rental API\\wwwroot\\uploads\\categories\\category141_571be223-e23f-46f0-befc-4761513a226a.png",
+      "PackagePath": "staticwebassets\\uploads\\categories\\category141_571be223-e23f-46f0-befc-4761513a226a.png"
+    },
+    {
+      "Id": "D:\\DotNet\\Projects\\Car Rental\\Car Rental API\\wwwroot\\uploads\\users\\29e7ac1a-f810-416a-8d30-073e000acee9.png",
+      "PackagePath": "staticwebassets\\uploads\\users\\29e7ac1a-f810-416a-8d30-073e000acee9.png"
+    },
+    {
+      "Id": "D:\\DotNet\\Projects\\Car Rental\\Car Rental API\\wwwroot\\uploads\\users\\user11_c6fe3100-447e-4505-aff8-9c93a5371362.png",
+      "PackagePath": "staticwebassets\\uploads\\users\\user11_c6fe3100-447e-4505-aff8-9c93a5371362.png"
+    },
+    {
+      "Id": "D:\\DotNet\\Projects\\Car Rental\\Car Rental API\\wwwroot\\uploads\\users\\user64_9b0692c3-6208-4063-a1be-b69f14301e45.png",
+      "PackagePath": "staticwebassets\\uploads\\users\\user64_9b0692c3-6208-4063-a1be-b69f14301e45.png"
+    },
+    {
+      "Id": "D:\\DotNet\\Projects\\Car Rental\\Car Rental API\\wwwroot\\uploads\\users\\user69_4ef973bb-838e-474f-a82d-8234cb935bbf.png",
+      "PackagePath": "staticwebassets\\uploads\\users\\user69_4ef973bb-838e-474f-a82d-8234cb935bbf.png"
+    },
+    {
+      "Id": "D:\\DotNet\\Projects\\Car Rental\\Car Rental API\\wwwroot\\uploads\\users\\user70_30bacedf-49a1-44d2-9199-63dd2d99ccd7.png",
+      "PackagePath": "staticwebassets\\uploads\\users\\user70_30bacedf-49a1-44d2-9199-63dd2d99ccd7.png"
+    },
+    {
+      "Id": "D:\\DotNet\\Projects\\Car Rental\\Car Rental API\\wwwroot\\uploads\\vehicles\\vehicle11_cef9b438-b686-47aa-9f3d-bc23069d5f97.png",
+      "PackagePath": "staticwebassets\\uploads\\vehicles\\vehicle11_cef9b438-b686-47aa-9f3d-bc23069d5f97.png"
+    },
+    {
+      "Id": "D:\\DotNet\\Projects\\Car Rental\\Car Rental API\\wwwroot\\uploads\\vehicles\\vehicle123_40e5cd4c-4f80-4094-a324-cc383b0274be.png",
+      "PackagePath": "staticwebassets\\uploads\\vehicles\\vehicle123_40e5cd4c-4f80-4094-a324-cc383b0274be.png"
+    },
+    {
+      "Id": "D:\\DotNet\\Projects\\Car Rental\\Car Rental API\\wwwroot\\uploads\\vehicles\\vehicle123_4a20a9ba-7237-46f6-a1d5-92be8866a230.png",
+      "PackagePath": "staticwebassets\\uploads\\vehicles\\vehicle123_4a20a9ba-7237-46f6-a1d5-92be8866a230.png"
+    },
+    {
+      "Id": "obj\\Release\\net8.0\\staticwebassets\\msbuild.Car Rental API.Microsoft.AspNetCore.StaticWebAssetEndpoints.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssetEndpoints.props"
+    },
+    {
+      "Id": "obj\\Release\\net8.0\\staticwebassets\\msbuild.Car Rental API.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Release\\net8.0\\staticwebassets\\msbuild.build.Car Rental API.props",
+      "PackagePath": "build\\Car Rental API.props"
+    },
+    {
+      "Id": "obj\\Release\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.Car Rental API.props",
+      "PackagePath": "buildMultiTargeting\\Car Rental API.props"
+    },
+    {
+      "Id": "obj\\Release\\net8.0\\staticwebassets\\msbuild.buildTransitive.Car Rental API.props",
+      "PackagePath": "buildTransitive\\Car Rental API.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
